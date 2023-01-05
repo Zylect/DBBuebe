@@ -1,6 +1,6 @@
 ﻿Datenbank ProjektModul 141David Reymond, Paulo Lalicata,	
 
-`		`Simeon Aeberli, Noah Isenschmid
+
 
 Dokumentation Modul 141 Datenbank 
 
@@ -74,7 +74,7 @@ Lehrperson: 		Herr Beutler Gerhard
 
 
 
-1. # Einleitung
+##1. # Einleitung
 Wir haben in diesem Modul die Aufgabe bekommen, eine Datenbank aufzubauen und unser Resultat zu präsentieren. Für unser Projekt haben wir uns für eine Linux Umgebung entschieden, die Läuft auf einer Linux Server VM, so wie die MySQL Workbench, die läuft auch auf einer VM, nämlich auf einer Windows 11 VM, von dort aus kann auf den Linux Server zugegriffen werden auf die MySQL Server Instanz.
 # 2.0 Übersicht Systeme
 ## 2.1 Linux Server (vmLS5)
@@ -88,13 +88,13 @@ Diese VM hat folgende Specs:
 
 \- Hard Disks:	Hard Disk (ISCSI)	8 GB
 
-`		`Hard Disk 2 (ISCSI)	5 GB
+Hard Disk 2 (ISCSI)	5 GB
 
-`		`Hard Disk 3 (ISCSI)	5 GB 
+Hard Disk 3 (ISCSI)	5 GB 
 
-`		`Hard Disk 4 (ISCSI)	5 GB 
+Hard Disk 4 (ISCSI)	5 GB 
 
-`		`Hard Disk 5 (ISCSI)	5 GB 
+Hard Disk 5 (ISCSI)	5 GB 
 ## 2.2 Windows Client (vmWP1)
 Die Datenbank wollten wir über die MySQL Workbench bearbeiten und managen. Dazu haben wir uns für die Windows 11 VM entschieden. 
 
