@@ -154,9 +154,7 @@ Als erstes installieren wir den MySQL Dienst auf den Linux Server wie folgt:
 
 Seit dem Juli 2022, gibt es ein Problem mit dem root Account, wenn man diesen nicht weiter konfiguriert, dass heisst man bekommt folgenden Error, wenn man auf die MySQL Konsole mit dem root Account zugreifen will:
 
-![Text
-
-Description automatically generated](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.007.png)
+![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.007.png)
 
 Dies kann man fixen indem man das Passwort vom root neu vergibt.
 
