@@ -234,7 +234,7 @@ $ sudo ufw allow 3000
 
 Ergebnis:
 
-![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.024.png)![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.025.png)![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.026.png)
+![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.026.png)
 
 Es sollten zwei neue Einträge erscheinen:
 
