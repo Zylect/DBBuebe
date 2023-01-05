@@ -182,7 +182,8 @@ Wir wollen, dass wir sehen welche Aktionen auf dem mysql Server passieren. Dafü
 # 5.0 Datenbank 
 ## 5.1 ERD
 ![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.013.png)
-## ![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.014.png)5.2 SQL Init Skript
+![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.014.png)
+## 5.2 SQL Init Skript
 ![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.015.png)
 
 
