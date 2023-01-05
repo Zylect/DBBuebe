@@ -1,7 +1,3 @@
-﻿Datenbank ProjektModul 141David Reymond, Paulo Lalicata,	
-
-
-
 Dokumentation Modul 141 Datenbank 
 
 
@@ -10,7 +6,7 @@ Dokumentation Modul 141 Datenbank
 
 
 
-`                                          `![mysql reddit](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.001.png)
+![mysql reddit](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.001.png)
 
 
 
@@ -74,7 +70,7 @@ Lehrperson: 		Herr Beutler Gerhard
 
 
 
-##1. # Einleitung
+## 1. Einleitung
 Wir haben in diesem Modul die Aufgabe bekommen, eine Datenbank aufzubauen und unser Resultat zu präsentieren. Für unser Projekt haben wir uns für eine Linux Umgebung entschieden, die Läuft auf einer Linux Server VM, so wie die MySQL Workbench, die läuft auch auf einer VM, nämlich auf einer Windows 11 VM, von dort aus kann auf den Linux Server zugegriffen werden auf die MySQL Server Instanz.
 # 2.0 Übersicht Systeme
 ## 2.1 Linux Server (vmLS5)
