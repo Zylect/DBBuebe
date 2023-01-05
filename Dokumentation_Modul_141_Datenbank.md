@@ -188,13 +188,9 @@ Wir wollen, dass wir sehen welche Aktionen auf dem mysql Server passieren. Dafü
 
 
 ## 5.3 View Originalform
-![Graphical user interface, text
+![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.016.png)
 
-Description automatically generated](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.016.png)
-
-![Text
-
-Description automatically generated](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.017.png)
+![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.017.png)
 
 Der View Originalform zeigt die ursprüngliche frigg Datei an.
 
