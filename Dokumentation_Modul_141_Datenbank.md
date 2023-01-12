@@ -215,7 +215,7 @@ Es muss uns möglich sein, dass wir den Inhalt der Datenbank vom Browser aus auf
 |**Bild**|**Beschreibung**|
 | :- | :- |
 |![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.020.png)|Als erstes muss man die Files gna\_0.7 und gna.conf.yml auf den Linux Server also auf die vmLS5 kopieren. Diese Programme braucht es für den Webserver.|
-|![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.021.png)|<p>Diese beiden Files packt man ins Verzeichnis /etc und führt die gna\_0.7\_all.deb Datei aus. </p><p></p><p>Zusätzlich braucht es noch diese beiden Commands:</p><p></p><p>$ sudo apt install libdbd-mysql-perl</p><p>$ sudo cpan install DBD::mysql</p><p></p><p>Das sind die Treiber für gna, damit eine Verbindung zum Datenbank Server hergestellt werden kann.</p>|
+|![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.021.png)|<p>Diese beiden Files packt man ins Verzeichnis /etc  </p><p></p><p>Nun braucht es die beiden Commands:</p><p></p><p>$ sudo apt install libdbd-mysql-perl</p><p>$ sudo cpan install DBD::mysql</p><p></p><p>Das sind die Treiber für gna, damit eine Verbindung zum Datenbank Server hergestellt werden kann. Dazu führt man nun den Befehl $ sudo dpkg --install gna_0.7_all.deb  aus</p>|
 |![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.022.png)|Im gna.conf.yml File gibt man dann noch die richtigen Credentials an für die Verbindung zum Datenbankserver.|
 |![](resources/Aspose.Words.607c49ea-6ab0-4243-a040-6ce958589b18.023.png)|Wenn man alles konfiguriert hat, muss man in der Konsole noch "gna" eingeben und Enter drücken, somit startet man den Webserver.|
 
